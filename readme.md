@@ -9,7 +9,7 @@
 
 ## Inference
 For Inference on any dirty document (of any size):
-$python inference.py --input_image = ""./images/i_img.jpeg$
+  $python inference.py --input_image = ""./images/i_img.jpeg
 - `input_image`: path to image to be cleaned
 
 
